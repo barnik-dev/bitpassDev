@@ -11,7 +11,7 @@ User has two options: - Either use global environment for the packages or use vi
 **Step-4**: Type "env/scripts/activate"\
 **Step-5**: Type "pip install django"\
 **Step-6**: Type "pip install cryptography"\
-**Step-7**: Type "python manage.py makemigrations"\
+**Step-7**: Type "python manage.py migrate"\
 **Step-7**: Type "python manage.py runserver"\
 
 
